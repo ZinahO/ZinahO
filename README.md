@@ -72,4 +72,4 @@ Developed predictive models using logistic regression and decision trees to iden
 
 📧 zinahamza122@gmail.com
 
-🔗 LinkedIn: [Add Your LinkedIn URL]
+
