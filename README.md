@@ -1,4 +1,4 @@
-# Hi, I'm Zinah 👋
+# Hi, I'm Zinah 
 
 M.S. Applied Artificial Intelligence student at the University of San Diego and Data Science graduate from Arizona State University (Summa Cum Laude, GPA: 4.0).
 
